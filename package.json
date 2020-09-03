@@ -1,0 +1,19 @@
+{
+  "name": "blog_website_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantmall1997/Blog-Website-DB.git"
+  },
+  "author": "Prashant Mall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantmall1997/Blog-Website-DB/issues"
+  },
+  "homepage": "https://github.com/prashantmall1997/Blog-Website-DB#readme"
+}
