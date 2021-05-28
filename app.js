@@ -105,5 +105,5 @@ app.get("/posts/:postName", (req, res) => {
 
 app.listen(port, function () {
   console.clear();
-  console.log(`Server started on port ${port}`);
+  console.log(`Server started!`);
 });
